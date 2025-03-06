@@ -31,7 +31,7 @@ os.makedirs(DATA_FOLDER, exist_ok=True)
 
 # Define categories and their dataset paths
 CATEGORIES = {
-    "rings": "datasets\All_Rings"
+    "rings": "datasets/All_Rings"
     # "bangles": "datasets\Bangles_new",
     # "noserings": "datasets\nose",
     # "earrings": "datasets\Unique_Earrings",
